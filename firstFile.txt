@@ -1,1 +1,2 @@
 This is first line in new File.
+this line from the branch "featureOne".
