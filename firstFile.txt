@@ -1,4 +1,4 @@
 This is first line in new File.
 this line from the branch "featureOne".
 this line from the "featureTwo" branch.
-new line from GitHub.com without a conflict. 
+add new feature from GitHub.com with a conflict.
